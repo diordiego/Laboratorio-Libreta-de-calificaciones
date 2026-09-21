@@ -1,0 +1,14 @@
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\bin\Debug\net10.0\LibroCalificaciones.exe
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\bin\Debug\net10.0\LibroCalificaciones.deps.json
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\bin\Debug\net10.0\LibroCalificaciones.runtimeconfig.json
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\bin\Debug\net10.0\LibroCalificaciones.dll
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\bin\Debug\net10.0\LibroCalificaciones.pdb
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\obj\Debug\net10.0\LibroCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\obj\Debug\net10.0\LibroCalificaciones.AssemblyInfoInputs.cache
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\obj\Debug\net10.0\LibroCalificaciones.AssemblyInfo.cs
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\obj\Debug\net10.0\LibroCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\obj\Debug\net10.0\LibroCalificaciones.dll
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\obj\Debug\net10.0\refint\LibroCalificaciones.dll
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\obj\Debug\net10.0\LibroCalificaciones.pdb
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\obj\Debug\net10.0\LibroCalificaciones.genruntimeconfig.cache
+C:\Users\drsgo\source\repos\LibroCalificaciones\LibroCalificaciones\obj\Debug\net10.0\ref\LibroCalificaciones.dll
